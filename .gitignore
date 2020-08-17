@@ -23,6 +23,9 @@ samplingoutput.txt
 
 # packaging stuff
 venv/*
+.venv*
+
+.vscode
 
 # testing
 .coverage
